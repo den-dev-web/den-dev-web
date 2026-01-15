@@ -9,6 +9,7 @@ Frontend Developer focused on clean UI, accessibility and performance.
 #### TaskFlow — Task Manager UI
 Modern task manager with responsive layout and accessible components.  
 🔗 Live: https://den-dev-web.github.io/taskflow  
+https://den-dev-web.github.io/TaskFlow/
 📁 Code: https://github.com/den-dev-web/taskflow
 
 #### RentKit — Real Estate Catalog
