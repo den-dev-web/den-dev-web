@@ -1,61 +1,54 @@
-## Hi, I’m Denis 👋
+# Den — Frontend Developer
 
-Frontend developer focused on building clean, accessible, and scalable interfaces for real-world products.
+I build modern, responsive landing pages and clean UI for startups and businesses.  
+Focused on **frontend quality**, **performance**, and **pixel-perfect implementation**.
 
-I work with modern HTML, CSS, and JavaScript to create responsive UIs, data-driven catalogs, dashboards, and content-focused interfaces — without unnecessary frameworks.
-
----
-
-## 🚀 Selected Projects
-
-### TaskFlow — Task Management UI
-Single-page task manager with complex UI interactions, state handling, and drag-and-drop.  
-Focus: architecture, UX patterns, and maintainable vanilla JS.
-- 🔗 Live: https://den-dev-web.github.io/taskflow/
-- 📁 Code: https://github.com/den-dev-web/taskflow
+**Core stack:** HTML, CSS, Tailwind CSS, Vanilla JS  
+**Extra:** CMS/CRM integration (e.g., WordPress), API integration, basic Python support when needed.
 
 ---
 
-### Foodly — Food Delivery Catalog
-Product catalog with filtering, cart logic, local state persistence, and modular architecture.  
-Focus: product UI, data flow, and user interactions.
-- 🔗 Live: https://den-dev-web.github.io/foodly/
-- 📁 Code: https://github.com/den-dev-web/foodly
+## Featured Projects (Live Demos)
+
+> Production-style UI projects ready for backend/API integration.
+
+### ✅ RentKit — Real Estate / Rental Platform UI
+- Live: https://den-dev-web.github.io/rentkit/
+- Repo: https://github.com/den-dev-web/rentkit
+- Highlights: responsive layouts, modern SaaS UI, clear booking-style flow, scalable structure
 
 ---
 
-### FinBox — Analytics Dashboard
-Frontend dashboard with reusable UI components and structured layout for data presentation.  
-Focus: CSS architecture, accessibility, and performance-aware UI.
-- 🔗 Live: https://den-dev-web.github.io/finbox/
-- 📁 Code: https://github.com/den-dev-web/finbox
+### ✅ LARO — Startup / Company Landing UI
+- Live: https://den-dev-web.github.io/laro/
+- Repo: https://github.com/den-dev-web/laro
+- Highlights: strong branding, clean sections, modern marketing layout, conversion-friendly structure
 
 ---
 
-### TravelGo — Travel Catalog & Landing
-Multi-page travel website with catalog, filtering, and performance-focused implementation.  
-Focus: ITCSS, BEM, accessibility, and static data-driven UI.
-- 🔗 Live: https://den-dev-web.github.io/travelgo/
-- 📁 Code: https://github.com/den-dev-web/travelgo
+### ✅ Foodly — Product / Delivery Service UI
+- Live: https://den-dev-web.github.io/foodly/
+- Repo: https://github.com/den-dev-web/foodly
+- Highlights: product-first UI, clear hierarchy, mobile-friendly, app-like experience
 
 ---
 
-## 🧩 What I Focus On
-
-- Responsive and mobile-first UI
-- Clean CSS architecture (ITCSS, BEM, design tokens)
-- Vanilla JavaScript with modular structure
-- Accessibility and semantic HTML
-- Performance-aware interfaces (lazy loading, lightweight animations)
-- Static and no-framework solutions when appropriate
+### ✅ Finbox — Finance / Analytics Dashboard UI
+- Live: https://den-dev-web.github.io/finbox/
+- Repo: https://github.com/den-dev-web/finbox
+- Highlights: dashboard-style UI, data/analytics look, structured components, responsive design
 
 ---
 
-## 🛠 Tech Stack
-
-HTML5 • CSS3 / SCSS • JavaScript (ES Modules)  
-Vite • GitHub Pages • Tailwind CSS (when relevant)
+## What I can help with
+- Landing pages (responsive, fast, conversion-focused)
+- SaaS / dashboard UI (clean layouts, scalable structure)
+- Figma to HTML (pixel-perfect implementation)
+- Frontend integration with CMS/CRM (WordPress) and APIs
+- UI polishing + responsiveness + layout fixes
 
 ---
 
-📬 Open to freelance collaboration and frontend projects
+## Contact
+If you want to build a landing page or UI for your product — feel free to reach out on Fiverr:
+- Fiverr: https://www.fiverr.com/denisivanchenko?public_mode=true
